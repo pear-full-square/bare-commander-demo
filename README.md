@@ -1,8 +1,7 @@
 # commander-demo
 
-Leg 4 of the journey, giving bare-commander a test run.  
+The commander.js examples mounted into a single __pear__ application using __bare-commander.js__.
 Using the ported __bare-commander.js__ module from https://github.com/Didericis/bare-commander.js.git.  
-I am porting the examples into a single __pear__ application.
 
 
 ## Prepare
